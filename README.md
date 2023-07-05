@@ -1,6 +1,6 @@
 ## Mimir
 
-minimalist AI chat
+minimalist AI chat assistant
 
 ## Get started
 
